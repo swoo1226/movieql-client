@@ -28,4 +28,4 @@ export const MOVIE_DETAILS = gql`
             medium_cover_image
         }
     }
-`
+`;
